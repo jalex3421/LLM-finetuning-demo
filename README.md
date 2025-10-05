@@ -22,7 +22,7 @@ This notebook demonstrates:
 ## 🔧 Tools & Frameworks
 - **Unsloth** – Fast, lightweight LLM finetuning  
 - **LoRA (Low-Rank Adaptation)** – Trainable adapters that save GPU memory & time  
-- **PyTorch** – Backend for training  
+- **PyTorch** – Main framework  
 - **Hugging Face Transformers** – Tokenization & model hub  
 
 ---
